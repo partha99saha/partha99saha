@@ -2,9 +2,9 @@
 
 👋 Hi, I’m Partha Saha
 
-👀 I’m interested in reading book,Painting,travelling,Music
+👀 I’m interested in reading book, painting, travelling, music
 
-🌱 I’m a Software Developer 
+🌱 I’m a Person with a great passion and fascination towards Software Technology
 
 📫 How to reach me: psaha.bdn9@gmail.com
 
