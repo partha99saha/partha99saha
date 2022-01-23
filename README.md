@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-👋 Hi, I’m Partha Saha
+
+👋 I’m Partha Saha
 
 👀 I’m interested in reading book, painting, travelling, music
 
