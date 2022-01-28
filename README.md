@@ -3,7 +3,7 @@
 
 👋 I’m Partha Saha
 
-👀 I’m interested in reading book, painting, travelling, music
+👀 I’m interested in software-development, reading book, painting, travelling
 
 🌱 I’m a Person with a great passion and fascination towards Software Technology
 
