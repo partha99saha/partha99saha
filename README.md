@@ -15,8 +15,6 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psaha.bdn9@gmail.com)](mailto:psaha.bdn9@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/partha-saha-52446216b/)](https://www.linkedin.com/in/partha-saha-52446216b/)
-[![Stack Overflow Badge](https://img.shields.io/badge/-Stack Overflow-blue?style=flat-square&logo=Stack Overflow&logoColor=white&link=https://stackoverflow.com/users/11712551/partha-saha)](https://stackoverflow.com/users/11712551/partha-saha)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](profile-link)
 
 
 <!-- ## 👨🏻‍💻 Coding Profiles
