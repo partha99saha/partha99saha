@@ -2,9 +2,7 @@
     <img width="300" src="https://github.com/kiranjolisa/kiranjolisa/raw/main/code.gif?raw=true">
 </p>
 <br>
-<h3 align="center">Hi 👋 Great to see you here!, I'm Partha; , &#60;a tech enthusiast&#62;&#60;/a tech enthusiast&#62; Full Stack developer from Kolkata,India</h3>
-
-<h4 align = "center" >I am currrently working as Software Developer.I like problems as they enable us to change our way of thinking.I like to Paint Listneing Music and Travelling</h4>
+<h3 align="center">Hi 👋 Great to see you here!, I'm Partha; , &#60;a tech enthusiast&#62;&#60;/a tech enthusiast&#62; Full Stack developer from Kolkata,India . I like problems as they enable us to change our way of thinking.I like to Paint Listneing Music and Travelling</h3>
 
 
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
