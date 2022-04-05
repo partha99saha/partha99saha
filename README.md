@@ -7,7 +7,7 @@
 
  - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 
- - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://parthasahaportfolio.github.io)
+ - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://partha-saha-portfolio.netlify.app/)
 
  - 💬 &nbsp; Ask me about **Node,Angular**
 
