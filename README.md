@@ -97,7 +97,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px height="30px"> Graph
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Graph
 <img style="margin-top:15px" src="https://activity-graph.herokuapp.com/graph?username=partha99saha&theme=rogue" alt="graph"/>
 
 ## 📈 Stats
