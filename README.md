@@ -35,7 +35,7 @@
 #### Databases
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-4169E9?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Front-end
