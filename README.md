@@ -54,9 +54,9 @@
 
 #### CUI
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logo=Java)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
-![Pyhton](https://img.shields.io/badge/Pyhton-3776AB.svg?style=for-the-badge&logo=Pyhton&logoColor=white)
+![Pyhton](https://img.shields.io/badge/Pyhton-3776AB?style=for-the-badge&logo=Pyhton&logo=Pyhton)
 <!--![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white) -->
 
 #### Others
