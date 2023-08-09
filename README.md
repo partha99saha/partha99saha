@@ -61,7 +61,7 @@
 
 #### Others
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![YAML](https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=black)
+![YAML](https://img.shields.io/badge/yaml-D24939?style=for-the-badge&logo=yaml&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-CB3837?style=for-the-badge&logo=ESLint&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
