@@ -9,8 +9,6 @@
 
  - 🌱 &nbsp; All of my projects are available at [My Portfolio](https://partha-saha-portfolio.netlify.app/)
 
- - 💬 &nbsp; Ask me about **Node,Angular**
-
  - 📫 &nbsp; Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psaha.bdn9@gmail.com)](mailto:psaha.bdn9@gmail.com)
