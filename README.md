@@ -25,7 +25,6 @@
 #### Back-end 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Pyhton](https://img.shields.io/badge/Pyhton-3776AB?style=for-the-badge&logo=Pyhton&logo=Pyhton)
 ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logo=Pyhton)
@@ -52,6 +51,8 @@
 ![TailWind CSS](https://img.shields.io/badge/tailwindcss-%230081CB.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 
 #### CUI
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logo=Java)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
@@ -102,9 +103,7 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket)
 
 
-
-<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Graph
-<img style="margin-top:15px" src="https://activity-graph.herokuapp.com/graph?username=partha99saha&theme=rogue" alt="graph"/> -->
+<!-- copy icon from: https://simpleicons.org/ -->
 
 ## 📈 Stats
 <a href="#">
