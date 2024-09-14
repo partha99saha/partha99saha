@@ -67,7 +67,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
 
-### Services(SaaS/PaaS)
+### Computing stack(SaaS/PaaS/IaaS)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![jfrog](https://img.shields.io/badge/jfrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
