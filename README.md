@@ -49,31 +49,37 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
-#### Packages
+#### Packages/ Libraries 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![pypi](https://img.shields.io/badge/pypi-3775A9.svg?style=for-the-badge&logo=pypi&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=PySpark&logoColor=white)
 
 
 #### Design Pattern
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
+![Serverless](https://img.shields.io/badge/serverless#FD5750?style=flat-square&logo=serverless)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=ApacheKafka)
 
 
 ### Computing stack(SaaS/PaaS/IaaS)
 ![YAML](https://img.shields.io/badge/yaml-D24939?style=for-the-badge&logo=yaml&logoColor=black)
+![Terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![jfrog](https://img.shields.io/badge/jfrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
+
+
+### Cloud Computing
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache Kafka)
+![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks)
 
 #### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -96,7 +102,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket)
-
+![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=Gitlab)
 
 <!-- copy icon from: https://simpleicons.org/ -->
 
