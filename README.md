@@ -60,8 +60,8 @@
 #### Design Pattern
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
-![Serverless](https://img.shields.io/badge/serverless#FD5750?style=flat-square&logo=serverless)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=ApacheKafka)
+![Serverless](https://img.shields.io/badge/serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)
 
 
 ### Computing stack(SaaS/PaaS/IaaS)
