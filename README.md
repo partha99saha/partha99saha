@@ -53,6 +53,7 @@
 ![CSS](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-007FFF?style=for-the-badge&logo=material-ui&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 #### Packages/ Libraries 
@@ -96,7 +97,6 @@
 ![snyk](https://img.shields.io/badge/snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 ### Testing Framework
