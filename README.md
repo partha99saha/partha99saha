@@ -79,7 +79,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![jfrog](https://img.shields.io/badge/jfrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 
 ### Cloud Computing
