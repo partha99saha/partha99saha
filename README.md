@@ -71,15 +71,14 @@
 
 
 ### Computing stack(SaaS/PaaS/IaaS)
-![YAML](https://img.shields.io/badge/yaml-D24939?style=for-the-badge&logo=yaml&logoColor=black)
 ![Terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![jfrog](https://img.shields.io/badge/jfrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
+![jfrog](https://img.shields.io/badge/jfrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 
 ### Cloud Computing
@@ -108,8 +107,8 @@
 #### VCS
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket)
-![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=Gitlab)
+![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white)
 
 <!-- copy icon from: https://simpleicons.org/ -->
 
