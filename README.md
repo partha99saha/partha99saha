@@ -61,8 +61,8 @@
 #### Design Pattern
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
-![Serverless](https://img.shields.io/badge/serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)
+![Serverless](https://img.shields.io/badge/serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white)
 
 
 ### Computing stack(SaaS/PaaS/IaaS)
@@ -78,9 +78,9 @@
 ### Cloud Computing
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 #### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
