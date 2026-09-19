@@ -26,8 +26,8 @@
 
 ### 🌐 Connect With Me
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psaha.bdn9@gmail.com)](mailto:psaha.bdn9@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/partha-saha-52446216b/)](https://www.linkedin.com/in/partha-saha-52446216b/)
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:psaha.bdn9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/partha-saha-52446216b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=netlify\&logoColor=white)](https://partha-saha-portfolio.netlify.app/)
 
 ---
@@ -39,7 +39,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
 
 ### 🤖 AI & Generative AI
@@ -105,7 +104,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-<!-- ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white) -->
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge\&logo=jfrog\&logoColor=white)
